@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.biblico.adjunto.com.br/sitemap.xml

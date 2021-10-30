@@ -1,3 +1,4 @@
+theme = "juice"
 # The URL the site will be built for
 base_url = "http://www.biblico.adjunto.com.br"
 
@@ -14,3 +15,10 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+juice_logo_name = "Juice"
+juice_logo_path = "juice.svg"
+juice_extra_menu = [
+    { title = "Github", link = "https://github.com/huhu/juice"}
+]
+repository_url = "https://github.com/huhu/juice"
