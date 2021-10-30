@@ -1,6 +1,6 @@
 theme = "juice"
 # The URL the site will be built for
-base_url = "http://www.biblico.adjunto.com.br"
+base_url = "http://www.adjunto.com.br"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
